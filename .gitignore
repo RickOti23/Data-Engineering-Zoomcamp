@@ -7,6 +7,12 @@ __pycache__/
 *.csv
 *.parquet
 
+#enviroment
+.env
+
+# GCP Service Account credentials
+credentials/service-account.json
+
 # C extensions
 *.so
 
